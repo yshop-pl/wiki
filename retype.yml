@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: wiki.yshop.pl
+edit:
+  repo: "https://github.com/yshop-pl/wiki/edit"
+  branch: "main"
+branding:
+  title: yShop
+  label: wiki
+links:
+- text: yShop.pl
+  link: https://yshop.pl
+- text: Discord
+  link: https://dc.yshop.pl
+favicon: static/favicon.ico
+search:
+  noResultsFoundMsg: Nie znaleziono.
+  placeholder: Szukaj
+footer:
+  copyright: "&copy; yShop {{ year }}. All Rights Reserved"
