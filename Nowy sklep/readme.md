@@ -1,3 +1,7 @@
+---
+icon: file-added
+---
+
 # Nowy sklep
 Tworzenie nowego sklepu w serwisie yshop.pl jest szybkie i proste. Postępuj zgodnie z poniższymi krokami, aby skonfigurować swój sklep.
 
@@ -10,6 +14,7 @@ Tworzenie nowego sklepu w serwisie yshop.pl jest szybkie i proste. Postępuj zgo
 ## Krok 2: Dodanie nowego sklepu
 
 1. Po zalogowaniu się do panelu administracyjnego, kliknij przycisk **+** znajdujący się w menu na dole strony
+
 ![img_1.png](img_1.png)
 
 ## Krok 3: Wpisanie informacji o sklepie
